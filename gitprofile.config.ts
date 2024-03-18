@@ -95,7 +95,7 @@ const CONFIG = {
   experiences: [
     {
       company: 'SailThrough English',
-      position: 'CFO & Full Stack Developer',
+      position: 'Full Stack Developer',
       from: 'August 2022',
       to: 'Present',
       companyLink: 'https://sailthrough.com.br',
